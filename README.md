@@ -2,7 +2,7 @@
 I made this simple mobile application for my 1 year old sister to play songs like twinkle little star. I implemented the concept of reading audio files from assests in Flutter
 
 When tapped, the different color strips produces different tones
-<h1>Important:</h1> Code is not complete, contact panashemuriro001@gmail.com to get help if necessary
+<h3>Important:</h3> Code is not complete, contact panashemuriro001@gmail.com to get help if necessary
 
 
 Screenshots of the App
